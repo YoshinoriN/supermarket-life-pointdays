@@ -1,0 +1,20 @@
+[
+  {
+    "storeName": "全店舗",
+    "campaignName": "LCカード",
+    "days": [7,17,27],
+    "weekDays": []
+  },
+  {
+    "storeName": "全店舗",
+    "campaignName": "60歳以上優待",
+    "days": [1,15],
+    "weekDays": []
+  },
+  {
+    "storeName": "x店",
+    "campaignName": "ポイント2倍",
+    "days": [],
+    "weekDays": ["水曜日","日曜日"]
+  }
+]
